@@ -25,4 +25,4 @@ Authorship and References
 The project was created by the author identified as "A". It is suggested to consult the reference "Didactics in Programming" for more information about the educational context of the project.
 
 Project Url: 
-https://github.com/strnie/Programa/edit/main/README.md
+https://github.com/strnie/Programa
